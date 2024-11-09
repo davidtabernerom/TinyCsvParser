@@ -1,0 +1,17 @@
+{
+	"name": "git.tinycsvparser.tinycsvparser",
+	"version": "1.0.0",
+	"displayName": "TinyCsvParser",
+	"description": "",
+	"documentationUrl": "https://github.com/TinyCsvParser/TinyCsvParser",
+	"unity": "2021.2",
+	"license": "MIT",
+	"dependencies": {},
+	"keywords": [
+		"scripting"
+	],
+	"author": {
+		"name": "TinyCsvParser",
+		"url": "https://github.com/TinyCsvParser"
+	}
+}
